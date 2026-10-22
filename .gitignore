@@ -1,0 +1,13 @@
+# Power BI / temporary files
+*.tmp
+*.bak
+~$*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / environment files
+.vscode/
+.idea/
